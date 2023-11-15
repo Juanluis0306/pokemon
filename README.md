@@ -10,6 +10,12 @@
 # Puntos terminados
 Se concluyeron con todos los puntos especificados en la prueba
 
+# Importante
+los usuarios con los que se puede acceder para las pruebas son:
+
+jlhm@gmail.com", password = "1234"
+juan@gmail.com", password = "1234"
+
 # Instalación
 Link de descarga del APK en Google Drive https://drive.google.com/file/d/1OLIcRFCM0UaO7TGHQYggwBfSd32Gi-tt/view?usp=sharing
 
