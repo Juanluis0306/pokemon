@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pokemon</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_sign_in">Sign in</string>
+    <string name="text_close_session">Go out</string>
+
+    <string name="save_session">SAVE_SESSION</string>
+    <string name="save_session_data">MY_DATA</string>
+    <string name="error_user">Usuario o contraseña incorrectos.</string>
+    <string name="alert_close">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Yes</string>
+    <string name="requiered_user">Required user field</string>
+    <string name="requiered_password">Required password field</string>
+</resources>

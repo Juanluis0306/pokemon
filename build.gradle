@@ -1,0 +1,22 @@
+buildscript {
+    ext.moshi_kotlin_version = '1.7.0'
+    //Hilt
+    ext.hilt_version = "2.42"
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.4.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$moshi_kotlin_version"
+        classpath "com.google.dagger:hilt-android-gradle-plugin:$hilt_version"
+    }
+}
+
+allprojects {
+
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
